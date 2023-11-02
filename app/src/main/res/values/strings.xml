@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Temperature Converter</string>
+    <string name="Title">Temperature Converter</string>
+    <string name="enter_the_temperature">Enter the Temperature</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="Celcius_to_fahrenheit">Celcius To Fahrenheit</string>
+    <string name="fahrenheit_to_celcius">Fahrenheit to celcius</string>
+    <string name="celcius_to_kelvin">Celcius to Kelvin</string>
+    <string name="kelvin_to_celcius">Kelvin to Celcius</string>
+    <string name="fahrenheit_to_kelvin">Fahrenheit To Kelvin</string>
+    <string name="kelvin_to_fahrenheit">Kelvin To Fahrenheit</string>
+    <string name="_0_degrees">0 Degrees</string>
+</resources>
